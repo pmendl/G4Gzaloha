@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GfGcardgame",
+			"Path": "X:\\GfG-card-game\\GfGcardgame\\Source\\GfGcardgame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GfGcardgameEditor",
+			"Path": "X:\\GfG-card-game\\GfGcardgame\\Source\\GfGcardgameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
